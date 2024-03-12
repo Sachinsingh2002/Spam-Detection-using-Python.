@@ -37,7 +37,7 @@ Welcome to our collaborative Spam Detection System in Python project! This syste
 ## Instructions for Usage
 
 1. Clone the repository to your local machine..
-2. Utilize Visual Studio Code for further development or modification.
+2. Utilize Visual Studio Code for further development or modification..
 3. Run `main.py` to train the models and preprocess the data.
 4. Use `naive_model.pkl` for quick predictions without retraining.
 5. Access the HTML template (`template.html`) for an interactive user interface for spam detection.
